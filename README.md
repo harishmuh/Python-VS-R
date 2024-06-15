@@ -1,5 +1,7 @@
 # Python vs R for Beginners
-![R vs Python](R vs Python.JPG)
+![R vs Python](https://github.com/harishmuh/Python-VS-R/blob/main/R%20vs%20Python.JPG?raw=true)
+
+
 ## **Context**
 In today’s data-driven world, programming languages play a crucial role in extracting insights from data. Among the many options available, Python and R stand out as popular choices for data analysis, visualization, and machine learning. 
 The decision between Python and R can significantly impact one’s career trajectory, given their distinct features and applications. In this article, we’ll delve into the key differences between Python and R to help you make an informed decision about which language suits your needs best.
